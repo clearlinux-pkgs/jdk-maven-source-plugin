@@ -1,0 +1,16 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+jdk-apache-parent
+jdk-junit4
+jdk-maven-archiver
+jdk-maven-compiler-plugin
+jdk-maven-jar-plugin
+jdk-maven-javadoc-plugin
+jdk-maven-parent
+jdk-maven-plugin-testing
+jdk-maven-plugin-tools
+jdk-maven-plugins
+jdk-maven-remote-resources-plugin
+jdk-maven-resources-plugin
+jdk-plexus-archiver
+jdk-surefire
