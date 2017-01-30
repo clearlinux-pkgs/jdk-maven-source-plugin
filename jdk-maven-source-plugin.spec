@@ -4,7 +4,7 @@
 #
 Name     : jdk-maven-source-plugin
 Version  : 3.0.1
-Release  : 1
+Release  : 2
 URL      : http://repo1.maven.org/maven2/org/apache/maven/plugins/maven-source-plugin/3.0.1/maven-source-plugin-3.0.1-source-release.zip
 Source0  : http://repo1.maven.org/maven2/org/apache/maven/plugins/maven-source-plugin/3.0.1/maven-source-plugin-3.0.1-source-release.zip
 Summary  : No detailed summary available
@@ -30,6 +30,7 @@ BuildRequires : jdk-commons-io
 BuildRequires : jdk-commons-lang
 BuildRequires : jdk-commons-lang3
 BuildRequires : jdk-commons-logging
+BuildRequires : jdk-commons-parent
 BuildRequires : jdk-commons-validator
 BuildRequires : jdk-doxia
 BuildRequires : jdk-doxia-sitetools
